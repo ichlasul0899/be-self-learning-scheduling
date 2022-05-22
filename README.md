@@ -3,8 +3,8 @@
 
 By Ichlasul AMAL
 
-Documentation :
-https://www.getpostman.com/collections/171b073c59413583170b
+[Deploy to heroku : http://be-self-scheduling.herokuapp.com/v1/](https://be-self-scheduling.herokuapp.com/v1/methods)
+
 
 STACK :
 - Node JS
@@ -60,4 +60,5 @@ DONE:
 [x] User tidak bisa delete activity user lain
 [x] Authentication
 [x] Authorization
+[x] Success deploy to heroku
 ```
